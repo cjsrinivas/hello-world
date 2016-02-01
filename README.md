@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+"Git"ing started with stuff around here
